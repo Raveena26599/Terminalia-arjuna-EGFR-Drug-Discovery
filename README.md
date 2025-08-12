@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/YourUsername/YourRepoName/blob/main/banner.png" alt="Project Banner">
+</p>
 # Anticancer Potential of *Terminalia arjuna* against EGFR – ADMET and Molecular Docking Analysis
 
 ## 📌 Overview
